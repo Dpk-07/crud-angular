@@ -1,0 +1,100 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Post 1"
+    },
+    {
+      "id": "2",
+      "title": "Post 2"
+    },
+    {
+      "id": "3",
+      "title": "Post 3"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "body": "Comment 1"
+    },
+    {
+      "id": "2",
+      "body": "Comment 2"
+    }
+  ],
+  "employee": [
+    {
+      "id": "ec39",
+      "firstname": "Deepak",
+      "lastname": "yadav",
+      "email": "deepak@gmail.com",
+      "dob": "2024-01-14T18:30:00.000Z",
+      "gender": "male",
+      "education": "Diploma",
+      "company": "sdfa",
+      "exp": "1",
+      "package": "2"
+    },
+    {
+      "id": "b87a",
+      "firstname": "lkjasdlkfj",
+      "lastname": "lajsdfklj",
+      "email": "jaskld@gmail.com",
+      "dob": "",
+      "gender": "",
+      "education": "",
+      "company": "",
+      "exp": "",
+      "package": ""
+    },
+    {
+      "id": "6217",
+      "firstname": "demo1",
+      "lastname": "demo",
+      "email": "demo1@gmail.com",
+      "dob": "2024-01-16T18:30:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "sdfas",
+      "exp": "12",
+      "package": "12"
+    },
+    {
+      "id": "75c9",
+      "firstname": "sdlkjfl",
+      "lastname": "lakjlk",
+      "email": "demo2@gmail.com",
+      "dob": "2024-01-14T18:30:00.000Z",
+      "gender": "male",
+      "education": "Diploma",
+      "company": "sdf",
+      "exp": "2",
+      "package": "2"
+    },
+    {
+      "id": "5232",
+      "firstname": "sdlkjakl",
+      "lastname": "lkjsadlfkj",
+      "email": "demo3@gmail.com",
+      "dob": "2023-12-31T18:30:00.000Z",
+      "gender": "male",
+      "education": "Diploma",
+      "company": "afs",
+      "exp": "5",
+      "package": "2"
+    },
+    {
+      "id": "a494",
+      "firstname": "qs",
+      "lastname": "s",
+      "email": "demo6@gmail.com",
+      "dob": "2024-01-18T18:30:00.000Z",
+      "gender": "",
+      "education": "Graduate",
+      "company": "ddd",
+      "exp": "11",
+      "package": "1"
+    }
+  ]
+}
